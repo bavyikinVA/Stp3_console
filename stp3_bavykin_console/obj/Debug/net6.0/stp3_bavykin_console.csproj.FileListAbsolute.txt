@@ -1,0 +1,15 @@
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\bin\Debug\net6.0\stp3_bavykin_console.exe
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\bin\Debug\net6.0\stp3_bavykin_console.deps.json
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\bin\Debug\net6.0\stp3_bavykin_console.runtimeconfig.json
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\bin\Debug\net6.0\stp3_bavykin_console.dll
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\bin\Debug\net6.0\stp3_bavykin_console.pdb
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.csproj.AssemblyReference.cache
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.AssemblyInfoInputs.cache
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.AssemblyInfo.cs
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.dll
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\refint\stp3_bavykin_console.dll
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.pdb
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\stp3_bavykin_console.genruntimeconfig.cache
+C:\Users\bavyk\source\STP\STP3\stp3_bavykin_console\obj\Debug\net6.0\ref\stp3_bavykin_console.dll
